@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4eca5433.css",
-    "main.js": "/static/js/main.758a9198.js",
-    "static/js/955.0d352692.chunk.js": "/static/js/955.0d352692.chunk.js",
-    "static/media/svz-logo.png": "/static/media/svz-logo.10ddd5eb8a57cfe1dc29.png",
-    "index.html": "/index.html",
-    "main.4eca5433.css.map": "/static/css/main.4eca5433.css.map",
-    "main.758a9198.js.map": "/static/js/main.758a9198.js.map"
+    "main.css": "/aptos-graffio-analysis-web/static/css/main.4eca5433.css",
+    "main.js": "/aptos-graffio-analysis-web/static/js/main.10182f13.js",
+    "static/js/955.0d352692.chunk.js": "/aptos-graffio-analysis-web/static/js/955.0d352692.chunk.js",
+    "static/media/svz-logo.png": "/aptos-graffio-analysis-web/static/media/svz-logo.10ddd5eb8a57cfe1dc29.png",
+    "index.html": "/aptos-graffio-analysis-web/index.html",
+    "main.4eca5433.css.map": "/aptos-graffio-analysis-web/static/css/main.4eca5433.css.map",
+    "main.10182f13.js.map": "/aptos-graffio-analysis-web/static/js/main.10182f13.js.map"
   },
   "entrypoints": [
     "static/css/main.4eca5433.css",
-    "static/js/main.758a9198.js"
+    "static/js/main.10182f13.js"
   ]
 }
