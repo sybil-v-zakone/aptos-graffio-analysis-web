@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://sybil-v-zakone.github.io/aptos-graffio-analysis-web/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
